@@ -1,0 +1,983 @@
+[
+    {
+        "value": 5,
+        "shortName": "ODS_1",
+        "name": "ODS_1 Fin de la pobreza",
+        "path": "ODS_1 Fin de la pobreza",
+        "children": [
+            {
+                "value": 25,
+                "name": "Meta_1_1 Erradicar pobreza extrema",
+                "path": "ODS_1 Hambre cero/Meta_1_1 Erradicar pobreza extrema"
+            },
+            {
+                "value": 15,
+                "name": "Meta_1_2 Reducir pobreza",
+                "path": "ODS_1 Hambre cero/Meta_1_2 Reducir pobreza"
+            },
+            {
+                "value": 3,
+                "name": "Meta_1_3 Protección social",
+                "path": "ODS_1 Hambre cero/Meta_1_3 Protección social"
+            },
+            {
+                "value": 2,
+                "name": "Meta_1_4 Igualdad recursos",
+                "path": "ODS_1 Hambre cero/Meta_1_4 Igualdad recursos"
+            },
+            {
+                "value": 175,
+                "name": "Meta_1_5 Fomentar resiliencia",
+                "path": "ODS_1 Hambre cero/Meta_1_5 Fomentar resiliencia"
+            },
+            {
+                "value": 225,
+                "name": "Meta_1_a Movilizar recursos",
+                "path": "ODS_1 Hambre cero/Meta_1_a Movilizar recursos"
+            },
+            {
+                "value": 21,
+                "name": "Meta_1_b Marcos normativos",
+                "path": "ODS_1 Hambre cero/Meta_1_b Marcos normativos"
+            }
+        ]
+    },
+    {
+        "value": 2,
+        "shortName": "ODS_2",
+        "name": "ODS_2 Hambre cero",
+        "path": "ODS_2 Hambre cero",
+        "children": [
+            {
+                "value": 22,
+                "name": "Meta_2_1 Nutrición",
+                "path": "ODS_2 Hambre cero/Meta_2_1 Nutrición"
+            },
+            {
+                "value": 175,
+                "name": "Meta_2_2 Agricultura",
+                "path": "ODS_2 Hambre cero/Meta_2_2 Agricultura"
+            },
+            {
+                "value": 23,
+                "name": "Meta_2_3 Comercio",
+                "path": "ODS_2 Hambre cero/Meta_2_3 Comercio"
+            },
+            {
+                "value": 19,
+                "name": "Meta_2_4 Infraestructura",
+                "path": "ODS_2 Hambre cero/Meta_2_4 Infraestructura"
+            },
+            {
+                "value": 2,
+                "name": "Meta_2_5 Genética",
+                "path": "ODS_2 Hambre cero/Meta_2_5 Genética"
+            },
+            {
+                "value": 21,
+                "name": "Meta_2_a Inversión",
+                "path": "ODS_2 Hambre cero/Meta_2_a Inversión"
+            },
+            {
+                "value": 25,
+                "name": "Meta_2_b Comercio",
+                "path": "ODS_2 Hambre cero/Meta_2_b Comercio"
+            },
+            {
+                "value": 215,
+                "name": "Meta_2_c Reservas",
+                "path": "ODS_2 Hambre cero/Meta_2_c Reservas"
+            }
+        ]
+    },
+    {
+        "value": 21,
+        "shortName": "ODS_3",
+        "name": "ODS_3 Salud y bienestar",
+        "path": "ODS_3 Salud y bienestar",
+        "children": [
+            {
+                "value": 23,
+                "name": "Meta_3_1 Reducir mortalidad",
+                "path": "ODS_3 Salud y bienestar/Meta_3_1 Reducir mortalidad"
+            },
+            {
+                "value": 18,
+                "name": "Meta_3_2 Salud materna",
+                "path": "ODS_3 Salud y bienestar/Meta_3_2 Salud materna"
+            },
+            {
+                "value": 24,
+                "name": "Meta_3_3 Enfermedades",
+                "path": "ODS_3 Salud y bienestar/Meta_3_3 Enfermedades"
+            },
+            {
+                "value": 2,
+                "name": "Meta_3_4 Salud mental",
+                "path": "ODS_3 Salud y bienestar/Meta_3_4 Salud mental"
+            },
+            {
+                "value": 21,
+                "name": "Meta_3_5 Abuso sustancias",
+                "path": "ODS_3 Salud y bienestar/Meta_3_5 Abuso sustancias"
+            },
+            {
+                "value": 22,
+                "name": "Meta_3_6 Accidentes tráfico",
+                "path": "ODS_3 Salud y bienestar/Meta_3_6 Accidentes tráfico"
+            },
+            {
+                "value": 225,
+                "name": "Meta_3_7 Salud sexual",
+                "path": "ODS_3 Salud y bienestar/Meta_3_7 Salud sexual"
+            },
+            {
+                "value": 235,
+                "name": "Meta_3_8 Cobertura sanitaria",
+                "path": "ODS_3 Salud y bienestar/Meta_3_8 Cobertura sanitaria"
+            },
+            {
+                "value": 245,
+                "name": "Meta_3_9 Contaminación",
+                "path": "ODS_3 Salud y bienestar/Meta_3_9 Contaminación"
+            },
+            {
+                "value": 25,
+                "name": "Meta_3_a Convenio marco",
+                "path": "ODS_3 Salud y bienestar/Meta_3_a Convenio marco"
+            },
+            {
+                "value": 255,
+                "name": "Meta_3_b Investigación",
+                "path": "ODS_3 Salud y bienestar/Meta_3_b Investigación"
+            },
+            {
+                "value": 26,
+                "name": "Meta_3_c Recursos",
+                "path": "ODS_3 Salud y bienestar/Meta_3_c Recursos"
+            },
+            {
+                "value": 265,
+                "name": "Meta_3_d Medicamentos",
+                "path": "ODS_3 Salud y bienestar/Meta_3_d Medicamentos"
+            }
+        ]
+    },
+    {
+        "value": 22,
+        "shortName": "ODS_4",
+        "name": "ODS_4 Educación de calidad",
+        "path": "ODS_4 Educación de calidad",
+        "children": [
+            {
+                "value": 24,
+                "name": "Meta_4_1 Educación primaria",
+                "path": "ODS_4 Educación de calidad/Meta_4_1 Educación primaria"
+            },
+            {
+                "value": 19,
+                "name": "Meta_4_2 Educación preescolar",
+                "path": "ODS_4 Educación de calidad/Meta_4_2 Educación preescolar"
+            },
+            {
+                "value": 25,
+                "name": "Meta_4_3 Formación técnica",
+                "path": "ODS_4 Educación de calidad/Meta_4_3 Formación técnica"
+            },
+            {
+                "value": 21,
+                "name": "Meta_4_4 Habilidades laborales",
+                "path": "ODS_4 Educación de calidad/Meta_4_4 Habilidades laborales"
+            },
+            {
+                "value": 23,
+                "name": "Meta_4_5 Igualdad género",
+                "path": "ODS_4 Educación de calidad/Meta_4_5 Igualdad género"
+            },
+            {
+                "value": 22,
+                "name": "Meta_4_6 Alfabetización",
+                "path": "ODS_4 Educación de calidad/Meta_4_6 Alfabetización"
+            },
+            {
+                "value": 225,
+                "name": "Meta_4_7 Educación sostenible",
+                "path": "ODS_4 Educación de calidad/Meta_4_7 Educación sostenible"
+            },
+            {
+                "value": 235,
+                "name": "Meta_4_a Infraestructura",
+                "path": "ODS_4 Educación de calidad/Meta_4_a Infraestructura"
+            },
+            {
+                "value": 245,
+                "name": "Meta_4_b Becas",
+                "path": "ODS_4 Educación de calidad/Meta_4_b Becas"
+            },
+            {
+                "value": 255,
+                "name": "Meta_4_c Docentes",
+                "path": "ODS_4 Educación de calidad/Meta_4_c Docentes"
+            }
+        ]
+    },
+    {
+        "value": 23,
+        "shortName": "ODS_5",
+        "name": "ODS_5 Igualdad de género",
+        "path": "ODS_5 Igualdad de género",
+        "children": [
+            {
+                "value": 25,
+                "name": "Meta_5_1 Discriminación",
+                "path": "ODS_5 Igualdad de género/Meta_5_1 Discriminación"
+            },
+            {
+                "value": 2,
+                "name": "Meta_5_2 Violencia género",
+                "path": "ODS_5 Igualdad de género/Meta_5_2 Violencia género"
+            },
+            {
+                "value": 26,
+                "name": "Meta_5_3 Prácticas nocivas",
+                "path": "ODS_5 Igualdad de género/Meta_5_3 Prácticas nocivas"
+            },
+            {
+                "value": 22,
+                "name": "Meta_5_4 Carga doméstica",
+                "path": "ODS_5 Igualdad de género/Meta_5_4 Carga doméstica"
+            },
+            {
+                "value": 24,
+                "name": "Meta_5_5 Participación política",
+                "path": "ODS_5 Igualdad de género/Meta_5_5 Participación política"
+            },
+            {
+                "value": 23,
+                "name": "Meta_5_6 Acceso salud",
+                "path": "ODS_5 Igualdad de género/Meta_5_6 Acceso salud"
+            },
+            {
+                "value": 235,
+                "name": "Meta_5_a Reformas legales",
+                "path": "ODS_5 Igualdad de género/Meta_5_a Reformas legales"
+            },
+            {
+                "value": 245,
+                "name": "Meta_5_b Tecnologías",
+                "path": "ODS_5 Igualdad de género/Meta_5_b Tecnologías"
+            },
+            {
+                "value": 255,
+                "name": "Meta_5_c Políticas género",
+                "path": "ODS_5 Igualdad de género/Meta_5_c Políticas género"
+            }
+        ]
+    },
+    {
+        "value": 24,
+        "shortName": "ODS_6",
+        "name": "ODS_6 Agua limpia y saneamiento",
+        "path": "ODS_6 Agua limpia y saneamiento",
+        "children": [
+            {
+                "value": 26,
+                "name": "Meta_6_1 Agua potable",
+                "path": "ODS_6 Agua limpia y saneamiento/Meta_6_1 Agua potable"
+            },
+            {
+                "value": 21,
+                "name": "Meta_6_2 Saneamiento",
+                "path": "ODS_6 Agua limpia y saneamiento/Meta_6_2 Saneamiento"
+            },
+            {
+                "value": 27,
+                "name": "Meta_6_3 Calidad agua",
+                "path": "ODS_6 Agua limpia y saneamiento/Meta_6_3 Calidad agua"
+            },
+            {
+                "value": 23,
+                "name": "Meta_6_4 Eficiencia agua",
+                "path": "ODS_6 Agua limpia y saneamiento/Meta_6_4 Eficiencia agua"
+            },
+            {
+                "value": 25,
+                "name": "Meta_6_5 Gestión recursos",
+                "path": "ODS_6 Agua limpia y saneamiento/Meta_6_5 Gestión recursos"
+            },
+            {
+                "value": 24,
+                "name": "Meta_6_6 Ecosistemas agua",
+                "path": "ODS_6 Agua limpia y saneamiento/Meta_6_6 Ecosistemas agua"
+            },
+            {
+                "value": 245,
+                "name": "Meta_6_a Cooperación",
+                "path": "ODS_6 Agua limpia y saneamiento/Meta_6_a Cooperación"
+            },
+            {
+                "value": 255,
+                "name": "Meta_6_b Participación comunitaria",
+                "path": "ODS_6 Agua limpia y saneamiento/Meta_6_b Participación comunitaria"
+            }
+        ]
+    },
+    {
+        "value": 25,
+        "shortName": "ODS_7",
+        "name": "ODS_7 Energía asequible y no contaminante",
+        "path": "ODS_7 Energía asequible y no contaminante",
+        "children": [
+            {
+                "value": 27,
+                "name": "Meta_7_1 Acceso energía",
+                "path": "ODS_7 Energía asequible y no contaminante/Meta_7_1 Acceso energía"
+            },
+            {
+                "value": 22,
+                "name": "Meta_7_2 Energías renovables",
+                "path": "ODS_7 Energía asequible y no contaminante/Meta_7_2 Energías renovables"
+            },
+            {
+                "value": 28,
+                "name": "Meta_7_3 Eficiencia energética",
+                "path": "ODS_7 Energía asequible y no contaminante/Meta_7_3 Eficiencia energética"
+            },
+            {
+                "value": 255,
+                "name": "Meta_7_a Investigación",
+                "path": "ODS_7 Energía asequible y no contaminante/Meta_7_a Investigación"
+            },
+            {
+                "value": 265,
+                "name": "Meta_7_b Infraestructura",
+                "path": "ODS_7 Energía asequible y no contaminante/Meta_7_b Infraestructura"
+            }
+        ]
+    },
+    {
+        "value": 26,
+        "shortName": "ODS_8",
+        "name": "ODS_8 Trabajo decente y crecimiento económico",
+        "path": "ODS_8 Trabajo decente y crecimiento económico",
+        "children": [
+            {
+                "value": 28,
+                "name": "Meta_8_1 Crecimiento PIB",
+                "path": "ODS_8 Trabajo decente y crecimiento económico/Meta_8_1 Crecimiento PIB"
+            },
+            {
+                "value": 23,
+                "name": "Meta_8_2 Diversificación",
+                "path": "ODS_8 Trabajo decente y crecimiento económico/Meta_8_2 Diversificación"
+            },
+            {
+                "value": 29,
+                "name": "Meta_8_3 Empleo productivo",
+                "path": "ODS_8 Trabajo decente y crecimiento económico/Meta_8_3 Empleo productivo"
+            },
+            {
+                "value": 24,
+                "name": "Meta_8_4 Economía sostenible",
+                "path": "ODS_8 Trabajo decente y crecimiento económico/Meta_8_4 Economía sostenible"
+            },
+            {
+                "value": 27,
+                "name": "Meta_8_5 Empleo pleno",
+                "path": "ODS_8 Trabajo decente y crecimiento económico/Meta_8_5 Empleo pleno"
+            },
+            {
+                "value": 26,
+                "name": "Meta_8_6 Jóvenes empleo",
+                "path": "ODS_8 Trabajo decente y crecimiento económico/Meta_8_6 Jóvenes empleo"
+            },
+            {
+                "value": 265,
+                "name": "Meta_8_7 Trabajo forzoso",
+                "path": "ODS_8 Trabajo decente y crecimiento económico/Meta_8_7 Trabajo forzoso"
+            },
+            {
+                "value": 275,
+                "name": "Meta_8_8 Protección laboral",
+                "path": "ODS_8 Trabajo decente y crecimiento económico/Meta_8_8 Protección laboral"
+            },
+            {
+                "value": 285,
+                "name": "Meta_8_9 Turismo sostenible",
+                "path": "ODS_8 Trabajo decente y crecimiento económico/Meta_8_9 Turismo sostenible"
+            },
+            {
+                "value": 295,
+                "name": "Meta_8_1 Servicios financieros",
+                "path": "ODS_8 Trabajo decente y crecimiento económico/Meta_8_1 Servicios financieros"
+            },
+            {
+                "value": 3,
+                "name": "Meta_8_a Apoyo comercio",
+                "path": "ODS_8 Trabajo decente y crecimiento económico/Meta_8_a Apoyo comercio"
+            },
+            {
+                "value": 35,
+                "name": "Meta_8_b Estrategias empleo",
+                "path": "ODS_8 Trabajo decente y crecimiento económico/Meta_8_b Estrategias empleo"
+            }
+        ]
+    },
+    {
+        "value": 27,
+        "shortName": "ODS_9",
+        "name": "ODS_9 Industria, innovación e infraestructura",
+        "path": "ODS_9 Industria, innovación e infraestructura",
+        "children": [
+            {
+                "value": 29,
+                "name": "Meta_9_1 Infraestructura",
+                "path": "ODS_9 Industria, innovación e infraestructura/Meta_9_1 Infraestructura"
+            },
+            {
+                "value": 24,
+                "name": "Meta_9_2 Industria inclusiva",
+                "path": "ODS_9 Industria, innovación e infraestructura/Meta_9_2 Industria inclusiva"
+            },
+            {
+                "value": 3,
+                "name": "Meta_9_3 Acceso financiero",
+                "path": "ODS_9 Industria, innovación e infraestructura/Meta_9_3 Acceso financiero"
+            },
+            {
+                "value": 25,
+                "name": "Meta_9_4 Infraestructura sostenible",
+                "path": "ODS_9 Industria, innovación e infraestructura/Meta_9_4 Infraestructura sostenible"
+            },
+            {
+                "value": 28,
+                "name": "Meta_9_5 Investigación",
+                "path": "ODS_9 Industria, innovación e infraestructura/Meta_9_5 Investigación"
+            },
+            {
+                "value": 27,
+                "name": "Meta_9_a Facilitar innovación",
+                "path": "ODS_9 Industria, innovación e infraestructura/Meta_9_a Facilitar innovación"
+            },
+            {
+                "value": 275,
+                "name": "Meta_9_b Desarrollo tecnológico",
+                "path": "ODS_9 Industria, innovación e infraestructura/Meta_9_b Desarrollo tecnológico"
+            },
+            {
+                "value": 285,
+                "name": "Meta_9_c Acceso TIC",
+                "path": "ODS_9 Industria, innovación e infraestructura/Meta_9_c Acceso TIC"
+            }
+        ]
+    },
+    {
+        "value": 28,
+        "shortName": "ODS_10",
+        "name": "ODS_10 Reducción de las desigualdades",
+        "path": "ODS_10 Reducción de las desigualdades",
+        "children": [
+            {
+                "value": 3,
+                "name": "Meta_10_1 Ingresos",
+                "path": "ODS_10 Reducción de las desigualdades/Meta_10_1 Ingresos"
+            },
+            {
+                "value": 25,
+                "name": "Meta_10_2 Inclusión social",
+                "path": "ODS_10 Reducción de las desigualdades/Meta_10_2 Inclusión social"
+            },
+            {
+                "value": 31,
+                "name": "Meta_10_3 Políticas igualdad",
+                "path": "ODS_10 Reducción de las desigualdades/Meta_10_3 Políticas igualdad"
+            },
+            {
+                "value": 26,
+                "name": "Meta_10_4 Redistribución",
+                "path": "ODS_10 Reducción de las desigualdades/Meta_10_4 Redistribución"
+            },
+            {
+                "value": 29,
+                "name": "Meta_10_5 Regulación económica",
+                "path": "ODS_10 Reducción de las desigualdades/Meta_10_5 Regulación económica"
+            },
+            {
+                "value": 28,
+                "name": "Meta_10_6 Control mercado",
+                "path": "ODS_10 Reducción de las desigualdades/Meta_10_6 Control mercado"
+            },
+            {
+                "value": 285,
+                "name": "Meta_10_7 Migración",
+                "path": "ODS_10 Reducción de las desigualdades/Meta_10_7 Migración"
+            },
+            {
+                "value": 295,
+                "name": "Meta_10_a Comercio global",
+                "path": "ODS_10 Reducción de las desigualdades/Meta_10_a Comercio global"
+            },
+            {
+                "value": 35,
+                "name": "Meta_10_b Inversión extranjera",
+                "path": "ODS_10 Reducción de las desigualdades/Meta_10_b Inversión extranjera"
+            },
+            {
+                "value": 315,
+                "name": "Meta_10_c Remesas",
+                "path": "ODS_10 Reducción de las desigualdades/Meta_10_c Remesas"
+            }
+        ]
+    },
+    {
+        "value": 29,
+        "shortName": "ODS_11",
+        "name": "ODS_11 Ciudades y comunidades sostenibles",
+        "path": "ODS_11 Ciudades y comunidades sostenibles",
+        "children": [
+            {
+                "value": 31,
+                "name": "Meta_11_1 Vivienda",
+                "path": "ODS_11 Ciudades y comunidades sostenibles/Meta_11_1 Vivienda"
+            },
+            {
+                "value": 26,
+                "name": "Meta_11_2 Transporte",
+                "path": "ODS_11 Ciudades y comunidades sostenibles/Meta_11_2 Transporte"
+            },
+            {
+                "value": 32,
+                "name": "Meta_11_3 Planificación",
+                "path": "ODS_11 Ciudades y comunidades sostenibles/Meta_11_3 Planificación"
+            },
+            {
+                "value": 27,
+                "name": "Meta_11_4 Patrimonio",
+                "path": "ODS_11 Ciudades y comunidades sostenibles/Meta_11_4 Patrimonio"
+            },
+            {
+                "value": 3,
+                "name": "Meta_11_5 Desastres",
+                "path": "ODS_11 Ciudades y comunidades sostenibles/Meta_11_5 Desastres"
+            },
+            {
+                "value": 29,
+                "name": "Meta_11_6 Contaminación",
+                "path": "ODS_11 Ciudades y comunidades sostenibles/Meta_11_6 Contaminación"
+            },
+            {
+                "value": 295,
+                "name": "Meta_11_7 Espacios públicos",
+                "path": "ODS_11 Ciudades y comunidades sostenibles/Meta_11_7 Espacios públicos"
+            },
+            {
+                "value": 35,
+                "name": "Meta_11_a Conexión regional",
+                "path": "ODS_11 Ciudades y comunidades sostenibles/Meta_11_a Conexión regional"
+            },
+            {
+                "value": 315,
+                "name": "Meta_11_b Planes urbanos",
+                "path": "ODS_11 Ciudades y comunidades sostenibles/Meta_11_b Planes urbanos"
+            },
+            {
+                "value": 325,
+                "name": "Meta_11_c Apoyo financiero",
+                "path": "ODS_11 Ciudades y comunidades sostenibles/Meta_11_c Apoyo financiero"
+            }
+        ]
+    },
+    {
+        "value": 33,
+        "shortName": "ODS_12",
+        "name": "ODS_12 Producción y consumo responsables",
+        "path": "ODS_12 Producción y consumo responsables",
+        "children": [
+            {
+                "value": 34,
+                "name": "Meta_12_1 Eficiencia recursos",
+                "path": "ODS_12 Producción y consumo responsables/Meta_12_1 Eficiencia recursos"
+            },
+            {
+                "value": 31,
+                "name": "Meta_12_2 Gestión sostenible",
+                "path": "ODS_12 Producción y consumo responsables/Meta_12_2 Gestión sostenible"
+            },
+            {
+                "value": 35,
+                "name": "Meta_12_3 Pérdida alimentos",
+                "path": "ODS_12 Producción y consumo responsables/Meta_12_3 Pérdida alimentos"
+            },
+            {
+                "value": 32,
+                "name": "Meta_12_4 Químicos y residuos",
+                "path": "ODS_12 Producción y consumo responsables/Meta_12_4 Químicos y residuos"
+            },
+            {
+                "value": 36,
+                "name": "Meta_12_5 Reducción residuos",
+                "path": "ODS_12 Producción y consumo responsables/Meta_12_5 Reducción residuos"
+            },
+            {
+                "value": 33,
+                "name": "Meta_12_6 Empresas sostenibles",
+                "path": "ODS_12 Producción y consumo responsables/Meta_12_6 Empresas sostenibles"
+            },
+            {
+                "value": 335,
+                "name": "Meta_12_7 Compras públicas",
+                "path": "ODS_12 Producción y consumo responsables/Meta_12_7 Compras públicas"
+            },
+            {
+                "value": 345,
+                "name": "Meta_12_8 Educación y consumo",
+                "path": "ODS_12 Producción y consumo responsables/Meta_12_8 Educación y consumo"
+            },
+            {
+                "value": 355,
+                "name": "Meta_12_a Ciencia y tecnología",
+                "path": "ODS_12 Producción y consumo responsables/Meta_12_a Ciencia y tecnología"
+            },
+            {
+                "value": 365,
+                "name": "Meta_12_b Turismo sostenible",
+                "path": "ODS_12 Producción y consumo responsables/Meta_12_b Turismo sostenible"
+            },
+            {
+                "value": 375,
+                "name": "Meta_12_c Subsidios insostenibles",
+                "path": "ODS_12 Producción y consumo responsables/Meta_12_c Subsidios insostenibles"
+            }
+        ]
+    },
+    {
+        "value": 37,
+        "shortName": "ODS_13",
+        "name": "ODS_13 Acción por el clima",
+        "path": "ODS_13 Acción por el clima",
+        "children": [
+            {
+                "value": 38,
+                "name": "Meta_13_1 Resiliencia",
+                "path": "ODS_13 Acción por el clima/Meta_13_1 Resiliencia"
+            },
+            {
+                "value": 35,
+                "name": "Meta_13_2 Políticas nacionales",
+                "path": "ODS_13 Acción por el clima/Meta_13_2 Políticas nacionales"
+            },
+            {
+                "value": 39,
+                "name": "Meta_13_3 Educación y conciencia",
+                "path": "ODS_13 Acción por el clima/Meta_13_3 Educación y conciencia"
+            },
+            {
+                "value": 36,
+                "name": "Meta_13_a Cooperación financiera",
+                "path": "ODS_13 Acción por el clima/Meta_13_a Cooperación financiera"
+            },
+            {
+                "value": 37,
+                "name": "Meta_13_b Planificación y gestión",
+                "path": "ODS_13 Acción por el clima/Meta_13_b Planificación y gestión"
+            }
+        ]
+    },
+    {
+        "value": 4,
+        "shortName": "ODS_14",
+        "name": "ODS_14 Vida submarina",
+        "path": "ODS_14 Vida submarina",
+        "children": [
+            {
+                "value": 41,
+                "name": "Meta_14_1 Contaminación marina",
+                "path": "ODS_14 Vida submarina/Meta_14_1 Contaminación marina"
+            },
+            {
+                "value": 37,
+                "name": "Meta_14_2 Ecosistemas marinos",
+                "path": "ODS_14 Vida submarina/Meta_14_2 Ecosistemas marinos"
+            },
+            {
+                "value": 42,
+                "name": "Meta_14_3 Acidificación océanos",
+                "path": "ODS_14 Vida submarina/Meta_14_3 Acidificación océanos"
+            },
+            {
+                "value": 38,
+                "name": "Meta_14_4 Pesca sostenible",
+                "path": "ODS_14 Vida submarina/Meta_14_4 Pesca sostenible"
+            },
+            {
+                "value": 43,
+                "name": "Meta_14_5 Áreas protegidas",
+                "path": "ODS_14 Vida submarina/Meta_14_5 Áreas protegidas"
+            },
+            {
+                "value": 39,
+                "name": "Meta_14_6 Subsidios pesca",
+                "path": "ODS_14 Vida submarina/Meta_14_6 Subsidios pesca"
+            },
+            {
+                "value": 395,
+                "name": "Meta_14_7 Recursos marinos",
+                "path": "ODS_14 Vida submarina/Meta_14_7 Recursos marinos"
+            },
+            {
+                "value": 415,
+                "name": "Meta_14_a Investigación marina",
+                "path": "ODS_14 Vida submarina/Meta_14_a Investigación marina"
+            },
+            {
+                "value": 425,
+                "name": "Meta_14_b Acceso mercados",
+                "path": "ODS_14 Vida submarina/Meta_14_b Acceso mercados"
+            },
+            {
+                "value": 435,
+                "name": "Meta_14_c Legislación marina",
+                "path": "ODS_14 Vida submarina/Meta_14_c Legislación marina"
+            }
+        ]
+    },
+    {
+        "value": 45,
+        "shortName": "ODS_15",
+        "name": "ODS_15 Vida de ecosistemas terrestres",
+        "path": "ODS_15 Vida de ecosistemas terrestres",
+        "children": [
+            {
+                "value": 46,
+                "name": "Meta_15_1 Conservación ecosistemas",
+                "path": "ODS_15 Vida de ecosistemas terrestres/Meta_15_1 Conservación ecosistemas"
+            },
+            {
+                "value": 42,
+                "name": "Meta_15_2 Bosques sostenibles",
+                "path": "ODS_15 Vida de ecosistemas terrestres/Meta_15_2 Bosques sostenibles"
+            },
+            {
+                "value": 47,
+                "name": "Meta_15_3 Degradación tierras",
+                "path": "ODS_15 Vida de ecosistemas terrestres/Meta_15_3 Degradación tierras"
+            },
+            {
+                "value": 43,
+                "name": "Meta_15_4 Montañas sostenibles",
+                "path": "ODS_15 Vida de ecosistemas terrestres/Meta_15_4 Montañas sostenibles"
+            },
+            {
+                "value": 48,
+                "name": "Meta_15_5 Especies amenazadas",
+                "path": "ODS_15 Vida de ecosistemas terrestres/Meta_15_5 Especies amenazadas"
+            },
+            {
+                "value": 44,
+                "name": "Meta_15_6 Recursos genéticos",
+                "path": "ODS_15 Vida de ecosistemas terrestres/Meta_15_6 Recursos genéticos"
+            },
+            {
+                "value": 445,
+                "name": "Meta_15_7 Caza furtiva",
+                "path": "ODS_15 Vida de ecosistemas terrestres/Meta_15_7 Caza furtiva"
+            },
+            {
+                "value": 465,
+                "name": "Meta_15_8 Especies invasoras",
+                "path": "ODS_15 Vida de ecosistemas terrestres/Meta_15_8 Especies invasoras"
+            },
+            {
+                "value": 475,
+                "name": "Meta_15_9 Planificación ecosist.",
+                "path": "ODS_15 Vida de ecosistemas terrestres/Meta_15_9 Planificación ecosist."
+            },
+            {
+                "value": 485,
+                "name": "Meta_15_a Financiamiento",
+                "path": "ODS_15 Vida de ecosistemas terrestres/Meta_15_a Financiamiento"
+            },
+            {
+                "value": 495,
+                "name": "Meta_15_b Conservación bosques",
+                "path": "ODS_15 Vida de ecosistemas terrestres/Meta_15_b Conservación bosques"
+            },
+            {
+                "value": 55,
+                "name": "Meta_15_c Comercio ilegal",
+                "path": "ODS_15 Vida de ecosistemas terrestres/Meta_15_c Comercio ilegal"
+            }
+        ]
+    },
+    {
+        "value": 5,
+        "shortName": "ODS_16",
+        "name": "ODS_16 Paz, justicia e instituciones sólidas",
+        "path": "ODS_16 Paz, justicia e instituciones sólidas",
+        "children": [
+            {
+                "value": 51,
+                "name": "Meta_16_1 Violencia y muertes",
+                "path": "ODS_16 Paz, justicia e instituciones sólidas/Meta_16_1 Violencia y muertes"
+            },
+            {
+                "value": 47,
+                "name": "Meta_16_2 Abuso y explotación",
+                "path": "ODS_16 Paz, justicia e instituciones sólidas/Meta_16_2 Abuso y explotación"
+            },
+            {
+                "value": 52,
+                "name": "Meta_16_3 Justicia y leyes",
+                "path": "ODS_16 Paz, justicia e instituciones sólidas/Meta_16_3 Justicia y leyes"
+            },
+            {
+                "value": 48,
+                "name": "Meta_16_4 Armas y crimen",
+                "path": "ODS_16 Paz, justicia e instituciones sólidas/Meta_16_4 Armas y crimen"
+            },
+            {
+                "value": 53,
+                "name": "Meta_16_5 Corrupción",
+                "path": "ODS_16 Paz, justicia e instituciones sólidas/Meta_16_5 Corrupción"
+            },
+            {
+                "value": 49,
+                "name": "Meta_16_6 Instituciones eficaces",
+                "path": "ODS_16 Paz, justicia e instituciones sólidas/Meta_16_6 Instituciones eficaces"
+            },
+            {
+                "value": 495,
+                "name": "Meta_16_7 Participación inclusiva",
+                "path": "ODS_16 Paz, justicia e instituciones sólidas/Meta_16_7 Participación inclusiva"
+            },
+            {
+                "value": 515,
+                "name": "Meta_16_8 Sociedad civil",
+                "path": "ODS_16 Paz, justicia e instituciones sólidas/Meta_16_8 Sociedad civil"
+            },
+            {
+                "value": 525,
+                "name": "Meta_16_9 Identificación legal",
+                "path": "ODS_16 Paz, justicia e instituciones sólidas/Meta_16_9 Identificación legal"
+            },
+            {
+                "value": 535,
+                "name": "Meta_16_1 Libertad información",
+                "path": "ODS_16 Paz, justicia e instituciones sólidas/Meta_16_1 Libertad información"
+            },
+            {
+                "value": 545,
+                "name": "Meta_16_a Instituciones seguridad",
+                "path": "ODS_16 Paz, justicia e instituciones sólidas/Meta_16_a Instituciones seguridad"
+            },
+            {
+                "value": 555,
+                "name": "Meta_16_b No discriminación",
+                "path": "ODS_16 Paz, justicia e instituciones sólidas/Meta_16_b No discriminación"
+            }
+        ]
+    },
+    {
+        "value": 6,
+        "shortName": "ODS_17",
+        "name": "ODS_17 Alianzas para lograr los objetivos",
+        "path": "ODS_17 Alianzas para lograr los objetivos",
+        "children": [
+            {
+                "value": 61,
+                "name": "Meta_17_1 Movilizar recursos",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_1 Movilizar recursos"
+            },
+            {
+                "value": 62,
+                "name": "Meta_17_2 Ayuda Oficial",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_2 Ayuda Oficial"
+            },
+            {
+                "value": 63,
+                "name": "Meta_17_3 Finanzas sostenibles",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_3 Finanzas sostenibles"
+            },
+            {
+                "value": 64,
+                "name": "Meta_17_4 Inversión y tecnología",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_4 Inversión y tecnología"
+            },
+            {
+                "value": 65,
+                "name": "Meta_17_5 Comercio mundial",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_5 Comercio mundial"
+            },
+            {
+                "value": 66,
+                "name": "Meta_17_6 Cooperación tecnológica",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_6 Cooperación tecnológica"
+            },
+            {
+                "value": 67,
+                "name": "Meta_17_7 Transferencia tecnología",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_7 Transferencia tecnología"
+            },
+            {
+                "value": 68,
+                "name": "Meta_17_8 Capacidades tecnológicas",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_8 Capacidades tecnológicas"
+            },
+            {
+                "value": 69,
+                "name": "Meta_17_9 Fortalecimiento capacidades",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_9 Fortalecimiento capacidades"
+            },
+            {
+                "value": 7,
+                "name": "Meta_17_1 Comercio inclusivo",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_1 Comercio inclusivo"
+            },
+            {
+                "value": 71,
+                "name": "Meta_17_11 Exportaciones países",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_11 Exportaciones países"
+            },
+            {
+                "value": 72,
+                "name": "Meta_17_12 Aranceles y barreras",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_12 Aranceles y barreras"
+            },
+            {
+                "value": 73,
+                "name": "Meta_17_13 Macroeconomía global",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_13 Macroeconomía global"
+            },
+            {
+                "value": 74,
+                "name": "Meta_17_14 Políticas coherentes",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_14 Políticas coherentes"
+            },
+            {
+                "value": 75,
+                "name": "Meta_17_15 Respetar políticas",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_15 Respetar políticas"
+            },
+            {
+                "value": 76,
+                "name": "Meta_17_16 Alianzas globales",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_16 Alianzas globales"
+            },
+            {
+                "value": 77,
+                "name": "Meta_17_17 Alianzas públicas",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_17 Alianzas públicas"
+            },
+            {
+                "value": 78,
+                "name": "Meta_17_18 Datos estadísticos",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_18 Datos estadísticos"
+            },
+            {
+                "value": 79,
+                "name": "Meta_17_19 Indicadores sostenibles",
+                "path": "ODS_17 Alianzas para lograr los objetivos/Meta_17_19 Indicadores sostenibles"
+            }
+        ]
+    }
+]

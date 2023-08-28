@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 249.377 367.168"
+   width="249.377"
+   height="367.168"
+   version="1.1"
+   id="svg376"
+   sodipodi:docname="decima.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs380" />
+  <sodipodi:namedview
+     id="namedview378"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="232.5"
+     inkscape:cy="189.5"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="1912"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g504" />
+  <style
+     id="style346">
+        text {
+            font-family: sans-serif;
+            font-size: 14px;
+        }
+        path {
+            stroke: black;
+            stroke-width: 2;
+            fill: none;
+        }
+    </style>
+  <g
+     id="g504"
+     transform="translate(-1.497006,-4.9900208)">
+    <g
+       id="g547"
+       transform="translate(18.463074,29.984032)">
+      <text
+         x="18.632809"
+         y="46.94606"
+         id="text348">1 - o o o o o o o A</text>
+      <text
+         x="18.632809"
+         y="76.94606"
+         id="text350">2 - o o o o o o o B</text>
+      <text
+         x="18.632809"
+         y="104.94604"
+         id="text352">3 - o o o o o o o B</text>
+      <text
+         x="18.632809"
+         y="136.94604"
+         id="text354">4 - o o o o o o o A</text>
+      <text
+         x="18.632809"
+         y="166.94604"
+         id="text356">5 - o o o o o o o A</text>
+      <text
+         x="18.632809"
+         y="196.94604"
+         id="text358">6 - o o o o o o o C</text>
+      <text
+         x="18.632809"
+         y="226.94608"
+         id="text360">7 - o o o o o o o C</text>
+      <text
+         x="18.632809"
+         y="260.94608"
+         id="text362">8 - o o o o o o o D</text>
+      <text
+         x="18.632809"
+         y="288.94608"
+         id="text364">9 - o o o o o o o D</text>
+      <text
+         x="10.632808"
+         y="320.94608"
+         id="text366"><tspan
+   style="fill:#d45500"
+   id="tspan753">10</tspan> - o o o o o o o C</text>
+      <path
+         d="m 153.65077,42.954038 c 52.76635,5.748408 46.31653,80.459302 0.88342,88.568312 14.39241,3.84244 13.86137,28.02876 -2.3924,31.87081"
+         id="path368"
+         sodipodi:nodetypes="ccc"
+         style="stroke:#4400aa" />
+      <path
+         d="m 152.14179,193.39317 c 16.10606,2.22795 15.3095,23.60025 0.27779,28.52314 49.0233,16.62796 42.53905,88.15985 0.21323,95.02975"
+         id="path370"
+         sodipodi:nodetypes="ccc"
+         style="stroke:#aa0044" />
+      <path
+         d="m 152.63281,70.946064 c 13.72644,4.390822 14.47345,26.077359 0,29.999996"
+         id="path372"
+         sodipodi:nodetypes="cc"
+         style="stroke:#aa8800" />
+      <path
+         d="m 154.63281,254.94606 c 21.05326,5.94484 14.37839,28.18529 0,30"
+         id="path374"
+         sodipodi:nodetypes="cc"
+         style="stroke:#008066" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="fill:#000000"
+       x="12.105866"
+       y="26.427092"
+       id="text436"><tspan
+         sodipodi:role="line"
+         id="tspan434"
+         x="12.105866"
+         y="26.427092">Métricas básicas de la <tspan
+   style="fill:#d45500"
+   id="tspan857">décima</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;font-family:sans-serif;fill:#502d16"
+       x="23.687845"
+       y="56.021755"
+       id="text436-4"><tspan
+         sodipodi:role="line"
+         id="tspan434-1"
+         x="23.687845"
+         y="56.021755"
+         style="fill:#502d16">Cada verso tiene 8 sílabas métricas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;font-family:sans-serif;fill:#502d16"
+       x="-212.75203"
+       y="28.206207"
+       id="text436-4-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan434-1-0"
+         x="-212.75203"
+         y="28.206207"
+         style="fill:#502d16">10 versos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;font-family:sans-serif;fill:#502d16"
+       x="-342.48676"
+       y="228.83476"
+       id="text436-4-6-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan434-1-0-6"
+         x="-342.48676"
+         y="228.83476"
+         style="fill:#502d16">Patrón de rima de las 8vas sílabas ABBAACCDDC</tspan></text>
+  </g>
+</svg>
